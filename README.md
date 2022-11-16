@@ -4,4 +4,4 @@
 2. Modificación de este README.md desde GitHub para indicar lo dos primeros pasos.
 ![paso2](https://user-images.githubusercontent.com/114091307/202225306-2280cf08-681c-4f67-a00f-a95e7ceb26cd.png)
 3. Clono el repositorio
-![clone]C:\Users\a22javierla\Pictures\Screenshots\clone.png
+![clone](https://user-images.githubusercontent.com/114091307/202233073-355da142-e6ee-4c11-b2fc-db0bea998b44.png)
